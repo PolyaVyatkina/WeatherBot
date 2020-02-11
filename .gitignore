@@ -1,2 +1,3 @@
 venv/
-src/cfd.py
+src/cfg.py
+.idea
